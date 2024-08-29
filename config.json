@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"雅名",
+    "subTitle":"这里是雅名（YaMing）用于存放个人作品的地方，可能会包含文字、图片、音乐、设计以及游戏，可能会包括原创、同人、分析等各类属性的作品，如果是通过链接加入的，希望能够友好浏览。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"08/29/2024",
+    "bottomText":"本作品在法律允许的范围内，使用CC BY-NC-SA协议进行许可。'
 }
